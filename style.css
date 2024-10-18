@@ -1,0 +1,17 @@
+body {background-color: #E0B0FF;}
+
+h1 {color:#E0B0FF;
+text-align: center;
+font-size: 60px;
+background-color:#702963; 
+border: 6px dashed antiquewhite;}
+
+h3 {color: #770737}
+
+.container{background-color:#AA98A9;
+width:500px;
+text-align: center;
+border-radius: 40px;
+margin:auto;
+border:7px dotted lavender;}
+
